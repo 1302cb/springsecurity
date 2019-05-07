@@ -1,0 +1,2 @@
+# springsecurity
+简单的springsecurity实战，非常适合springsecurity入门级别的老铁学习，这个小demo采用的是springboot+mybatis+springsecurity实现的，底层数据库使用的是MySQL
